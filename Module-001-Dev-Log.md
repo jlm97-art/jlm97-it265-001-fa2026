@@ -12,29 +12,34 @@
 - [ ] Goal 3
 -->
 - [X] Create a GitHub account
-- [X] Set up Git Bash terminal 
+- [X] Install Git Bash terminal 
 - [X] Set up a GitHub repository
 - [X] Attach dev log to GitHub repository
 
 #### Progress
 - **What I accomplished**:
   - Managed to create a GitHub repository to attach future Dev Logs in
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Utilized Git Bash Terminal to clone my repository
+  - Created GitHub keys in order to further secure my repositories
+ 
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Initially could not properly clone my GitHub repository
+
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Created another GitHub repository (current one used for this log) in order to properly
+    clone on Git Bash Terminal
+
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+- How to navigate Git Bash Terminal
+- Significance of Git Bash Terminal and its connection to preserving GitHub repositories
+- Navigation of GitHub, its significance in game development, and preservation of files
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  Unanswered <!--N/A-->
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+- Start on Studio Brainstorm dev log
+- Formulate a company name and vision statement for Studio Brainstorm dev log
+- Potentially start focusing on type and genre of physical prototype game
+
