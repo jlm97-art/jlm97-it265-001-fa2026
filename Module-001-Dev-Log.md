@@ -1,16 +1,9 @@
-<!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Jon Tyler Munar
 ### Module: 001
 
-<!-- Repeat the below as needed-->
 ### Date: 09/10/2026
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
 - [X] Create a GitHub account
 - [X] Install Git Bash terminal 
 - [X] Set up a GitHub repository
