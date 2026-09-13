@@ -80,6 +80,7 @@
   - [Tagline 3: "Otherworldly games for an otherworldly experience."]
 
 -- **Sketches/Logo**:
+<img width="467" height="404" alt="Screenshot 2026-09-12 200936" src="https://github.com/user-attachments/assets/937d56f6-bea2-4961-be8e-ab14fddc6c46" />
 
 ---
 
