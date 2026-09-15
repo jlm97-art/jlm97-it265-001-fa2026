@@ -11,7 +11,7 @@
 
 - **Chosen Name**: Ethereal Studios
 - **About the name**: I chose this name for the studio as it represents the idea of putting effort and motivation into game development and video games as a whole. The name of this studio aims to invoke the "pouring your heart and soul" belief. As such, each game made under this studio and its name promises to deliver high-quality, passion-driven products that signify the importance of motivation in the game development process. The name also reminds one of the idea of a spirit, specifically a "free spirit", in which games developed under this studio also aim to give the players creative freedom and independent thought of their choices.
-- **Social Medias with name available**: ETHStudiosOfficial, RealEthreal
+- **Social Medias with name available**: Instagram, Twitter, Youtube
 - **Possible domain names available**: EthrealStudios.com, ETHStudios.com
 
 ---
