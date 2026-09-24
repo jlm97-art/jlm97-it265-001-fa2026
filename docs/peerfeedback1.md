@@ -4,7 +4,7 @@ Use one copy for each concept you review. Initials are enough; do not record cla
 
 **Concept: Metroid-style 2D platformer**
 
-**Reviewer initials: ???**
+**Reviewer initials: J.T.M**
 
 **In my words, the player repeatedly: dodges, attacks**
 
