@@ -1,8 +1,6 @@
-<!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Jon Tyler Munar
 ### Module: 002
 
-<!-- Repeat the below as needed-->
 ### Date: [9/28/2026]
 
 #### Goals for this Module
