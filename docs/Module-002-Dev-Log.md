@@ -5,7 +5,7 @@
 
 #### Goals for this Module
 - [X] Formulate and select a range of game genres and potential concepts for physical (board) game prototype
-- [X] Think of and decide on certain features to make the gameplay of physical prototype stand out, though not to the point of
+- [X] Think of and  decide on certain features to make the gameplay of physical prototype stand out, though not to the point of
 overwhelming the player(s)
 - [x] Start on planning for digital prototype in terms of features, game genres, and concepts
 
