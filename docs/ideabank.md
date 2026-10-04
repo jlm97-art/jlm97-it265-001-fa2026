@@ -10,5 +10,5 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 **Two or three concepts to pitch:**
 
-1. Eviction Notice | Resource and time management | 2D top-down, survival, time-based, roguelike - READY TO PITCH
-2. Freaky Taxi | Probability-Based, Resource management, turn planning | Turn-based, strategy, probability, item-based - UNCLEAR LOOP
+1. Eviction Notice | Resource management | Turn-based, item-based, strategy | Question: Do you prioritize distance from your opponents on a board, or outsmarting them? - READY TO PITCH
+2. Freaky Taxi | Probability-Based, Resource management, turn planning | Turn-based, strategy, probability, item-based | Would you try to reach a two-goal-based exit with both goals met? Or would you secure a route to the exit first? - READY TO PITCH
