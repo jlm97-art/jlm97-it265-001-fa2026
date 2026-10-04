@@ -22,20 +22,20 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
 
-## Pitch Card 2 (Digital)
+## Pitch Card 2
 
 **Working title: Eviction Notice**
 
-**Player role and situation: Players must navigate their character to reach the minimum quota before the time runs out to advance to the next round while fending off enemies that get stronger each round.**
+**Player role and situation: Players must chase the "tenant" by rolling a set of dice in order to advance further into the board and catch up to the tenant, who also advances via the set of dice. Advancing spaces or moving back is also altered by certain board space events or items that both categories of players may pick up along the way.**
 
-**Repeated decision or action: A repeated decision of this game is choosing which enemies to target first as they all vary in strength and speed.**
+**Repeated decision or action: A repeated decision of this game is rolling the dice, which determines how much spaces each player moves up.**
 
-**Goal, pressure, or ending: The goal is to meet the minimum quota before the time runs out, and the pressure of this game is the enemies growing stronger per passed round.**
+**Goal, pressure, or ending: The goal is to catch up and advance to the space the tenant is currently on. The game ends when one of the players lands directly on the tenant's space.**
 
-**Hook: Luck, free-roam combat, upgrade paths**
+**Hook: Luck, items galore, fleeing, outsmarting**
 
-**Smallest useful physical prototype: Red magnet as the player, other magnets surrounding the red magnet as the enemies**
+**Smallest useful physical prototype: Red chess piece as the player, black chess piece surrounding the red magnet as the chasers, set of dice**
 
-**Question I want listeners to answer: Do you take a defensive, or offensive approach?**
+**Question I want listeners to answer: Do you get as far as possible from your pursuers, or do you try to outsmart them??**
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
