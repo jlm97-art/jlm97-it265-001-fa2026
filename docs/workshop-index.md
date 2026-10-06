@@ -4,7 +4,7 @@
 
 **Workshop date: 10-02-2026**
  
-## Documents
+## Documents 
 
 1. [Idea bank](https://www.google.com/?zx=1791249593293)
 2. [Pitch cards](https://jlm97-art.github.io/jlm97-it265-001-fa2026/02-pitch-cards.md)
