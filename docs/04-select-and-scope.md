@@ -18,5 +18,3 @@
 **One feature to defer: Key items, might need to adjust the number each player must collect given the current currency quota**
 
 **One risk to test next: Amount of playtime for each game started, ensure that players do not get bored or are not overloaded with objecttives **
-
-Carry this decision into the [one-page treatment](./05-one-page-treatment.html) and [first journal entry](./06-journal-first-entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
