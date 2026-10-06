@@ -6,7 +6,7 @@
 
 ## Documents
 
-1. [Idea bank](./01-idea-bank.html)
+1. [Idea bank](https://jlm97-art.github.io/jlm97-it265-001-fa2026/01-idea-bank.html)
 2. [Pitch cards](https://jlm97-art.github.io/jlm97-it265-001-fa2026/02-pitch-cards.md)
 3. [Peer feedback](https://jlm97-art.github.io/jlm97-it265-001-fa2026/03-peer-feedback.md)
 4. [Selection and scope](https://jlm97-art.github.io/jlm97-it265-001-fa2026/04-select-and-scope.md)
