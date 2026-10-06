@@ -2,8 +2,6 @@
 
 # IT265 Module 2: Concept Pitch Cards
 
-Copy this card for each of your two or three shortlisted concepts. Aim to explain each in about one minute. Use your [idea bank](./01-idea-bank.html) as a starting point.
-
 ## Pitch Card 1 (Physical)
 
 **Working title: Freaky Taxi**
@@ -37,5 +35,3 @@ Keep the cards together in this document and link its rendered page from your wo
 **Smallest useful physical prototype: Red chess piece as the player, black chess piece surrounding the red magnet as the chasers, set of dice**
 
 **Question I want listeners to answer: Do you get as far as possible from your pursuers, or do you try to outsmart them??**
-
-Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
