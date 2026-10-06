@@ -6,9 +6,9 @@
  
 ## Documents 
 
-1. [Idea bank](https://jlm97-art.github.io/jlm97-it265-001-fa2026/01-idea-bank.md)
-2. [Pitch cards](https://jlm97-art.github.io/jlm97-it265-001-fa2026/02-pitch-cards.md)
-3. [Peer feedback](https://jlm97-art.github.io/jlm97-it265-001-fa2026/03-peer-feedback.md)
-4. [Selection and scope](https://jlm97-art.github.io/jlm97-it265-001-fa2026/04-select-and-scope.md)
-5. [One-page treatment](https://jlm97-art.github.io/jlm97-it265-001-fa2026/05-one-page-treatment.md)
+1. [Idea bank](https://jlm97-art.github.io/jlm97-it265-001-fa2026/workshop/01-idea-bank.md)
+2. [Pitch cards](https://jlm97-art.github.io/jlm97-it265-001-fa2026/workshop/02-pitch-cards.md)
+3. [Peer feedback](https://jlm97-art.github.io/jlm97-it265-001-fa2026/workshop/03-peer-feedback.md)
+4. [Selection and scope](https://jlm97-art.github.io/jlm97-it265-001-fa2026/workshop/04-select-and-scope.md)
+5. [One-page treatment](docs/workshop/05-one-page-treatment.html)
 6. [First journal entry](06-journal-first-entry.md)
