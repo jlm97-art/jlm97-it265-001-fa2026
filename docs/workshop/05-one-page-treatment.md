@@ -1,6 +1,6 @@
 # IT265 Module 2: One-Page Treatment
 
-**Working game title: Freaky Taxi**
+**Working game title: Freaky Taxi** 
 
 1. **Premise:** In "Freaky Taxi", the players control figurines representing each player. Said players must navigate a board using the default dice rolls, board event spaces, and item dice sets in order to not only reach the end of the board, but also meet a certain "currency" quota increased by board event spaces to unlock the exit gate before other players.
 2. **Experience and loop:** Each playthrough of *Freaky Taxi* should feel distinct from the previous one, where major aspects of the game - from dice rolls to item collection to strategy based on board layout - should feel strategic instead of repetitive in terms of approach.
