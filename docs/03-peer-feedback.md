@@ -14,6 +14,4 @@
 
 **Biggest uncertainty or risk to test: testing difficulty levels of the enemies and bosses**
 
-**One actionable suggestion: For maps, you should add warp points to make travel less tedious**
-
-Give your notes to the designer. Designers can use the feedback in the [selection sheet](./04-select-and-scope.md) and journal entry.
+**One actionable suggestion: For maps, you should add warp points to make travel less tedious*
