@@ -1,5 +1,5 @@
 # IT265 Module 2: Idea Bank
-
+ 
 **Two or three concepts to pitch:** 
 
 1. Eviction Notice | Resource management | Turn-based, item-based, strategy | Question: Do you prioritize distance from your opponents on a board, or outsmarting them? - READY TO PITCH
