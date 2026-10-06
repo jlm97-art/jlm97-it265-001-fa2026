@@ -3,7 +3,7 @@
 **Working game title: Freaky Taxi**
 
 **Workshop date: 10-02-2026**
-
+ 
 ## Documents
 
 1. [Idea bank](https://www.google.com/?zx=1791249593293)
