@@ -35,15 +35,19 @@
   - An action taken by the player, or a choice that they make, needs to have some type of consequence.
     - This does not have to solely be a restriction or negative all the time, rather a game needs to introduce a sort
       of reward to make the decision outweigh the potential risks or challenges the player may face.
+      Rewards are usually positive, signifying a positive, unexpected result an symbolize mastery over a mechanic
+    - Such approaches to an award need to establish a sense of agency, or the idea of giving the player choices to approach
+      said reward
+  - For board games, must consider the size and shape of the board to determine a reasonable amount of spaces
+    - Thus, boards must have symmetry, or an equivalent amount of spaces per corner or or side of the board
+    - Moving across a board might also have movement constraints (I.E. limited by the value a set of dice might display per        roll)
 - Strategy and tactics in a game do not hold the same definition.
   - Strategy is pivoted towards a set of moves that help achieve a longer-term goal, such as a session-wide goal or spanning
     over many turns (For example, saving up a large amount of money in a board game to purchase a game-winning item)
   - Tactics are a set of actions that focus more on achieving a shorter-term goal, whether it be for the next turn or next
     few turns (Such as conserving resources - health for example - to make it to the next turn in an RPG)
-- 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+- Decided to add a spinner to my game for event spaces
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
+- Finish board layout, treatment design, and presentation
