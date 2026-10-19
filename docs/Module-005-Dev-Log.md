@@ -1,7 +1,5 @@
 ## Name: Jon Tyler Munar
 ### Module: 005
-
-<!-- Repeat the below as needed-->
 ### Date: 10/19/2026
 
 #### Goals for this Module
