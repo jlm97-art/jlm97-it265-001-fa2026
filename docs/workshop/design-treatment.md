@@ -88,8 +88,6 @@ Examples include boards, cards, tokens, dice, counters, or a score sheet.
 Explain what each represents and how a player uses it; give a quantity when
 needed for setup. Repeated copies of the same piece can share one row. -->
 
-| Piece or material | Quantity for setup | What it represents | How it is used |
-
 | [Board] | [3 triangular-shaped cutouts, 12 in. x 12 in. x 12 in. of cardboard for base and poster paper for surface] | [Serves as the movement area] | [Specifies the allowed movement area for all players, establishes different types of tiles, displays where the exit gate tile is] |
 | [Coins] | [Several, around 50-100] | [Representation of quota currency] | [A necessity for unlocking the exit gate and winning the game, players must accumulate enough currency coins to do so. Can also be used to trade for item dice, a player's amount of these coins can be taken by other players, subtracted, added, multiplied, or halved.] |
 | [Spinner] | [1 cardboard and poster paper in shape of a wheel, paperclip for arrow] | [Used for event tiles, specifically those that involve random chance] | [Player lands on an event tile, draws an event card, and if it is a event card that relies on random chance, spin the wheel, which will be divided into 3 separate areas] |
@@ -110,15 +108,19 @@ readable materials and actual design choices. -->
         -If in the event the player uses an item dice, they can use no more than one item dice along with the default item dice (No more than 2 dice in play per player essentially). The default item dice can be swapped out for another item dice should the player have more than one item dice.
       - Players can hold a maximum of 3 item dice at the beginning of the game, which can be increased by landing on rare backpack spaces that increase their maximum inventory slot by 1 for every time they land on it.
       - Players can hold a max of X currency coins at a time to ensure that a player can't "hoard" every coin that comes with a copy of the board game. Should a player be in a situation where they earn an amount of coins that causes their total to go over the limit, the player will only receive the amount of coins that adds up to the limit.
-      - In the event the player holds a yellow dice (an item dice that grants more coins), they can opt to roll for more tokens, though no more than 1 can be used per turn.]
+      - In the event the player holds a yellow dice (an item dice that grants more coins), they can opt to roll for more tokens, though no more than 1 can be used per turn.
+      - When entering an item shop, players can buy a maximum of 4 items. Constant limit throughout the session.]
 
 ## Intended Players
 
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
-[Intended for both casual players, strategists, item-gatherers.
-Casual players: A primary intended audience]
+[Intended for both casual players, strategists, sightseers, item-gatherers
+Casual players: A primary intended audience as the simple decisions of rolling a dice, choosing to use items, and basic item variants / event spaces / currency system are meant to serve as a good introduction to strategy board games
+Strategists: Event spaces and item dice variants are abundant across the board and game's intended items, allowing for a variety of approaches given the current available resources one player may have.
+Sightseers: An audience influenced by the city theme of this board game. Traveling to each island on the board aims to capture the experience of moving around a city.
+Item-gatherers: Variety of items to help the user or sabotage other users, in addition to a simple item-collection system helps appeal to this audience as it promotes stockpiling items for future strategies]
 
 ## Accessibility And Inclusivity
 
@@ -182,7 +184,7 @@ record only feedback and outcomes that actually occurred. -->
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| [Person 1] | [Observation] | [Revision or next test] |
+| [Younger sibling (brother)] | [] | [Revision or next test] |
 | [Person 2] | [Observation] | [Revision or next test] |
 | [Person 3] | [Observation] | [Revision or next test] |
 | [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
