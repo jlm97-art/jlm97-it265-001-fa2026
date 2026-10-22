@@ -53,20 +53,20 @@ to mitigate any negative effects imposed by other players on the next coming tur
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
 [A game is first set up by deciding turn order. Each player rolls a D-20, and turn order is decided based on ascending dice value. The person who rolls the
-highest dice value goes first. A spinner is then used to place the exit spots on the map, from 1 to 30 for each of the 3 islands.]
+highest dice value goes first. A spinner is then used to place the exit spots on the map, from 1 to 3, for each of the 3 islands. The spinner is then used again to determine which island all players will start at.]
 
 ### Core Gameplay Loop
 
 <!-- Describe the recurring player choices and actions, the rules that connect
 them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
-[Explain what the player considers, chooses or does, and how that changes the next decision.]
+[Throughout the game, players would ideally be focused on the current position on one of the three islands, and the types of tiles ahead of their position in order to plan for the next turn (I.E. choosing what roll value would be optimal, or what item dice sets they should use as tactics for the next few turns). After rolling the dice and landing on a certain value, the player moves that many spaces forward, and depending on what kind of space they land on, they may gain currency coins (flat addition or multiplied), or lose currency coins (flat subtraction or divided). In addition to this, landing on a certain space may trigger unique events, such as all players gaining/losing a certain amount of coins, or gaining the opportunity to buy item dice.]
 
 ### Ending And Outcome
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
-[Explain the end conditions and resulting outcome.]
+[A session ends when a player stands on the exit tile with the specified amount of currency coins. For a free-for-all-session, the win condition would be if you are the first player to meet the currency quota whilst standing on the tile. For team-based sessions, the first player who meets said conditions will count as a win for that player's team.]
 
 ## First Physical Prototype
 
@@ -74,11 +74,12 @@ conditions where applicable, or another clear beginning/end structure. -->
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
-[Describe the planned prototype, its pieces, and how they support play.]
+[The planned prototype will consist of three triangular islands, each being connected with straight and curved roads. The board's material will consist of poster paper for the surface (with the tile layout of each island being traced and outlined), and cardboard underneath for a sturdy structure for long play sessions. The currency coins will mainly take the
+form of gold-colored tokens. The dice items will consist of different-colored dice sets, and will include D6 and D20 dice sets. The spinner used for certain events will also be made of a cardboard and poster-paper material, and cards used for certain events will make use of index cards. For the figurines, each figurine will represent a different player, in which these figurines will also be made of cardboard.]
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
-[Describe the physical version and the arrangement of its play area.]
+[The board is the main physical play area, accessible to all players. Each island represents a third of the board, and depending on the player's current position, one island may be more accessible to some players than others. ]
 
 ### Pieces And Their Purpose
 
@@ -88,8 +89,12 @@ Explain what each represents and how a player uses it; give a quantity when
 needed for setup. Repeated copies of the same piece can share one row. -->
 
 | Piece or material | Quantity for setup | What it represents | How it is used |
-| --- | --- | --- | --- |
-| [Piece or material] | [Quantity, if needed] | [Game meaning] | [Player action or rule it supports] |
+
+| [Board] | [3 triangular-shaped cutouts, 12 in. x 12 in. x 12 in. of cardboard for base and poster paper for surface] | [Serves as the movement area] | [Specifies the allowed movement area for all players, establishes different types of tiles, displays where the exit gate tile is] |
+| [Coins] | [Several, around 50-100] | [Representation of quota currency] | [A necessity for unlocking the exit gate and winning the game, players must accumulate enough currency coins to do so. Can also be used to trade for item dice, a player's amount of these coins can be taken by other players, subtracted, added, multiplied, or halved.] |
+| [Spinner] | [1 cardboard and poster paper in shape of a wheel, paperclip for arrow] | [Used for event tiles, specifically those that involve random chance] | [Player lands on an event tile, draws an event card, and if it is a event card that relies on random chance, spin the wheel, which will be divided into 3 separate areas] |
+| [Figurines] | [Circular cardboard base and oval attached to said base, 4 figurines in total] | [Represents each player on the board (Unique artistic symbols will be shown on the oval, such as a suitcase or tie)] | [Player moves their figurine around the board to display their current movement and position]|
+
 
 ### Materials And Mechanic Adjustments
 
@@ -97,14 +102,23 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 for this prototype. Describe how rules, values, layouts, or pieces can be changed
 between playthroughs without rebuilding the whole prototype. Focus on usable,
 readable materials and actual design choices. -->
-[Explain the material choices and how mechanics can be adjusted during testing.]
+[Cardboard: A material used for almost every asset of the board game, utilized for its sturdiness compare to regular paper
+ Metal tokens: Used as the currency, chosen as the currency type in order to replicate the feeling of actual monetary value while holding no actual value outside the board game (like poker chips not holding any value outside a casino)
+ RULES:
+      - Turn order is decided on a D20 dice, first to last is dependent on who roles the higher value
+      - Players can only move on their turn, or by a random event tile condition (such as swapping positions with another player). On their turn, they can take one of two actions: Move with the default dice, use an item dice to help with movement or to help with currency coin collection
+        -If in the event the player uses an item dice, they can use no more than one item dice along with the default item dice (No more than 2 dice in play per player essentially). The default item dice can be swapped out for another item dice should the player have more than one item dice.
+      - Players can hold a maximum of 3 item dice at the beginning of the game, which can be increased by landing on rare backpack spaces that increase their maximum inventory slot by 1 for every time they land on it.
+      - Players can hold a max of X currency coins at a time to ensure that a player can't "hoard" every coin that comes with a copy of the board game. Should a player be in a situation where they earn an amount of coins that causes their total to go over the limit, the player will only receive the amount of coins that adds up to the limit.
+      - In the event the player holds a yellow dice (an item dice that grants more coins), they can opt to roll for more tokens, though no more than 1 can be used per turn.]
 
 ## Intended Players
 
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
-[Describe the intended players and why the game fits them.]
+[Intended for both casual players, strategists, item-gatherers.
+Casual players: A primary intended audience]
 
 ## Accessibility And Inclusivity
 
@@ -185,10 +199,9 @@ clear. Keep this as planning notes, not a second treatment or a full script. -->
 **Presentation time cap:** [5 minutes]
 
 | Segment | What to show or explain | Planned time |
-| --- | --- | --- |
 | Introduction | Core concept and strongest USP | [1 minute] |
-| Prototype | Pieces, their meaning, and how players use them | [1 minute 30 seconds] |
+| Prototype | Pieces, their meaning, and how players use them | [1 minute, 30 seconds] |
 | Gameplay | A representative interaction and the ending or outcome | [1 minute] |
 | Feedback | A concrete design change and why it was made | [1 minute] |
 
-**Planned total:** [Duration]
+**Planned total:** [4 minutes, 30 seconds]
