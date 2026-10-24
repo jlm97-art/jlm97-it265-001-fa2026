@@ -128,24 +128,34 @@ Item-gatherers: Variety of items to help the user or sabotage other users, in ad
 understand, and use the game's actual interactions. Explain how these choices
 preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
-[Describe the accessibility choices and how they support play.]
+[Color palette choice: This board game utilizes a complementary color palette to help differentiate between harmful and helpful effects. Alongside this, such color palette also uses a light and dark brightness contrast to help support this distinction. This promotes accessibility as players may have certain conditions such as color blindness, in which a generic color palette might confuse them.
+Visual design for tiles: The icons of certain tiles on the board also are meant to clearly distinguish between what may be a helpful or harmful effect, in which the only exception to this would be the event tile (marked with an "!"). This is to also help players who might have certain difficulties telling such tiles apart, similar to the color blindness issue for the color palette.
+Simplistic objective rule set: The generic ruleset (that focuses on the overall goal) of the game is kept to a relatively short list in order to be understandable to players of all skill levels, but to promote inclusivity as this helps introduce players that are unfamiliar with strategy and dice-focused board games into these genres.
+Simplistic item and currency system rule set: Effects of items and how currency is traded around is kept to a simplified degree in order to not overwhelm the players with having to keep track of too much available resources and potentially upcoming (dis)advantages. Item pool is relatively small to help players understand the significance of these objects during play without overwhelming them with too many choices to approach their current situation. By keeping a relatively small list of items and rules for earning and losing currency, the conditions and resources of the board game still grants players ample agency for a variety of strategies.
+Tile mechanics:  Tile mechanics are straightforward in what they do to prevent confusion or overwhelm as to what effects may befall onto the player while still keeping play interesting. Almost all tiles are labeled in a way where there effect is obvious, with the exception of the event tile which may grant one of several benefits or disadvantages across one or multiple players.]
 
 ## Unique Selling Points (USP)
 
 <!-- Unique selling points are the distinctive design choices that give intended
 players a reason to choose this game. Explain those choices through a relevant
 comparison with an existing game. Connect the differences to the intended
-players' experience; support the comparison with concrete design details. -->
-players' experience; support the comparison with concrete design details.
+players' experience; support the comparison with concrete design details. 
 Explain why the difference would make play more interesting to those players. -->
-[Explain the game's unique selling points and the relevant comparison.]
+
+[Explain the game's unique selling points and the relevant comparison.
+Unique item pool: Different types of item dice are accessible to the player throughout sessions, whether bought, earned, or swapped between players. Each has the potential to help the player gain an advantage, or gain even ground with another player in terms of currency or position on the board.
+Fair balance between randomness and control: The inclusion of items grants a certain agency to players in terms of what regions they want to move to on the board, how much currency to earn, and certain ways to avoid sabotage by other players. However, the game still relies on dice for movement, shuffling effect cards for event tiles, and a spinner for certain tiles in order to keep a sense of randomness.
+Real-time strategy: During every turn players must consider what island they are on, what spaces are ahead and behind them, what items they currently possess, and how much currency coins they have.
+Risk vs. reward: Players are able to take certain paths upon arriving to each island, in which said paths may be safer, yet less rewarding than others, while others may put them at a higher ground at the cost of a potential disadvantage.
+Replay value: Randomized setup at the start of the game allows for different approaches to gain advantages, and random factors ensure that strategies and the appropriate time to put them into motion do not feel scripted.
+]
 
 ## Concept Pitch
 
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
-[Write the concise pitch.]
+[Freaky Taxi is a city-themed, strategy and item-stockpiler based board game ]
 
 ## Visual Direction
 
